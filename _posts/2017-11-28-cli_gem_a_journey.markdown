@@ -1,0 +1,13 @@
+---
+layout: post
+title:      "CLI Gem; A journey"
+date:       2017-11-29 04:11:33 +0000
+permalink:  cli_gem_a_journey
+---
+
+
+This lab was pretty difficult for me. Not only did I have to do it twice, but it's taken me over two months to complete because of my work schedule. During my first attempt I scraped a site that would show the top ten best-selling statues from the site www.midtowncomics.com.  I am a comic book collector and I've also gained an affinity for statues based on comic characters.  I've always been an art aficiando so I thought let me focus this lab on something I love to do. One of the most difficult parts for me was finding what links would be the best ones to use for the scraping since each statue had about three links.  Another problem was that the top ten listing would change month to month, a fact that I was unaware of, this continuous change would cause havoc with the written code because the links that I would scrape would become useless.  After close to completion I ran into the two aforementioned problems and I decided to start all over.  
+
+This time I was going to use a much more stable site wherein the listings would stay the same. So I contemplated my other hobbies, one of which is martial arts.  I thought to look for a site that gave a subjective listing of the best mixed martial arts (MMA) schools in New York City.  I found a pretty awesome article listing the top ten mixed martial arts schools in New York City at http://newyork.cbslocal.com/top-lists/5-best-mma-and-martial-arts-studios-in-new-york/ . This article had stabilized listings and the scraping was easy to find. I also found the article very interesting and helpful since I plan on going back to mixed martial arts soon.  
+
+The coding was pretty straight forward for the project, the second time around that is, but my code kept breaking.  I would take a break for a long time and get back to the project but I just couldn't figure it out. So I decided to seek some guidance and I joined the black professional coders meetup.  It was such an uplifting meetup, everyone there was helpful, there were novices to experts present and no one seemed to have an ego.  I decided to share my scraping project and the leader of the meetup was super helpful.  He showed me why my code was breaking and I understood everything he was saying and I fixed my code. It was such a relief. Needless to say I was stressed several weeks about finishing this project and I would go on to my other readings and labs so I wouldn't lag behind too much.  I'm still finishing up this project as I am typing this blog but the main parts are complete and I have to make the video and upload everything to git.
