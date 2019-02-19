@@ -1,15 +1,14 @@
 # Site settings
+author: Auden B. Robertson
 title: Adventures in programming!!
 header-img: img/home-bg.png
 email: audenrobertson@gmail.com
-copyright_name: liquidsword
+copyright_name: Auden B. Robertson
 description: > # this means to ignore newlines until "baseurl:"
   The psychology of coding...
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  liquidsword
-learn_profile: liquidsword
-email_username: audenrobertson@gmail.com
 
 # Build settings
 markdown: kramdown
